@@ -14,4 +14,4 @@ hello xtj! hello git!
 hello xtj! hello git!
 hello xtj! hello git!
 hello xtj! hello git!master test
-hello xtj! hello git!
+hello xtj! hello git!hot-fix test
